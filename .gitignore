@@ -40,14 +40,14 @@ Thumbs.db
 
 # Si las carpetas de años contienen PDFs crudos descargados, descomenta esto para no saturar el repo:
 # *.pdf
- /2017/
- /2018/
- /2019/
- /2020/
- /2021/
- /2022/
- /2023/
- /2024/
- /2025/
- /2026/
- /testPdf/
+/2017/
+/2018/
+/2019/
+/2020/
+/2021/
+/2022/
+/2023/
+/2024/
+/2025/
+/2026/
+/testPdf/

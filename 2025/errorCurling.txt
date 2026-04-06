@@ -1,1 +1,0 @@
-Error HTTP con ID 10070456: 404 Client Error: Not Found for url: https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2025/10070456.pdf

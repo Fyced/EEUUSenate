@@ -1,0 +1,53 @@
+# ========================================
+# Entornos, Caché y Notebooks
+# ========================================
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+env/
+.env
+
+# ========================================
+# SEGURIDAD (¡CRÍTICO!)
+# ========================================
+credentials.json
+
+# ========================================
+# Logs y Archivos de Error Temporales
+# ========================================
+erroresExtractAño.txt
+errorsGlobal/
+data/
+ideasEntreno.txt
+Lista_actual.csv
+debugPage.png
+extractorGeminiApi.py
+checkChangeWeb.py
+pointsStrategy.ipynb
+
+# ========================================
+# Archivos de Sistema
+# ========================================
+.DS_Store
+Thumbs.db
+
+# ========================================
+# Datos Pesados / Raw Data (Ajusta según necesites)
+# ========================================
+# Si tus CSVs son muy pesados (+100MB), descomenta la siguiente línea:
+# *.csv
+
+# Si las carpetas de años contienen PDFs crudos descargados, descomenta esto para no saturar el repo:
+# *.pdf
+ /2017/
+ /2018/
+ /2019/
+ /2020/
+ /2021/
+ /2022/
+ /2023/
+ /2024/
+ /2025/
+ /2026/
+ /testPdf/

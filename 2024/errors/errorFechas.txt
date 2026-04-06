@@ -1,0 +1,1369 @@
+ARCHIVO PARA SABER QUE ARCHIVOS TIENEN MAL ALGUNA FECHA
+Error en diferencia de fechas. Archivo 20023805.pdf. Nueva Date: 2023-06-25 00:00:00
+ Owner                                 
+Asset            Myno Carbon Corp [PS]
+Tx_Type                              P
+Date                        06/25/2021
+Notif_Date                  08/12/2023
+Amount               $15,001 - $50,000
+Filing Status                      new
+Acronym                               
+Op_Type                             PS
+Pdf_Id                        20023805
+Name: 0, dtype: object
+Error en diferencia de fechas. Archivo 20023805.pdf. Nueva Date: 2022-08-31 00:00:00
+ Owner                                 
+Asset            Myno Carbon Corp [PS]
+Tx_Type                              P
+Date                        08/31/2021
+Notif_Date                  08/12/2023
+Amount                $1,001 - $15,000
+Filing Status                      new
+Acronym                               
+Op_Type                             PS
+Pdf_Id                        20023805
+Name: 1, dtype: object
+Error en diferencia de fechas. Archivo 20023805.pdf. Nueva Date: 2023-03-21 00:00:00
+ Owner                                                  
+Asset            Myno Carbon Corp convertible note [CS]
+Tx_Type                                               P
+Date                                         03/21/2022
+Notif_Date                                   08/12/2023
+Amount                                $15,001 - $50,000
+Filing Status                                       new
+Acronym                                                
+Op_Type                                              CS
+Pdf_Id                                         20023805
+Name: 4, dtype: object
+Error en diferencia de fechas. Archivo 20023805.pdf. Nueva Date: 2023-05-16 00:00:00
+ Owner                                                  
+Asset            Myno Carbon Corp convertible note [CS]
+Tx_Type                                               P
+Date                                         05/16/2022
+Notif_Date                                   08/12/2023
+Amount                                $15,001 - $50,000
+Filing Status                                       new
+Acronym                                                
+Op_Type                                              CS
+Pdf_Id                                         20023805
+Name: 0, dtype: object
+Error en diferencia de fechas. Archivo 20025026.pdf. Nueva Date: 2024-01-04 00:00:00
+ Owner                              
+Asset            Series I Bond [GS]
+Tx_Type                           P
+Date                     01/04/2023
+Notif_Date               05/08/2024
+Amount             $1,001 - $15,000
+Filing Status                   new
+Acronym                            
+Op_Type                          GS
+Pdf_Id                     20025026
+Name: 0, dtype: object
+Error en diferencia de fechas. Archivo 20025026.pdf. Nueva Date: 2024-04-26 00:00:00
+ Owner                                
+Asset            US Savings Bond [GS]
+Tx_Type                             P
+Date                       04/26/2023
+Notif_Date                 05/08/2024
+Amount               $1,001 - $15,000
+Filing Status                     new
+Acronym                              
+Op_Type                            GS
+Pdf_Id                       20025026
+Name: 1, dtype: object
+Error en diferencia de fechas. Archivo 20025151.pdf. Nueva Date: 2023-07-01 00:00:00
+ Owner                                                           SP
+Asset            Alphabet Inc. - Class C Capital Stock (GOOG) [ST]
+Tx_Type                                                          P
+Date                                                    06/30/2022
+Notif_Date                                              05/30/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                       GOOG
+Op_Type                                                         ST
+Pdf_Id                                                    20025151
+Name: 0, dtype: object
+Error en diferencia de fechas. Archivo 20025151.pdf. Nueva Date: 2023-10-26 00:00:00
+ Owner                                            SP
+Asset            Caney Creek Tex Mun Util Dist [CS]
+Tx_Type                                           P
+Date                                     10/25/2022
+Notif_Date                               05/30/2024
+Amount                             $1,001 - $15,000
+Filing Status                                   new
+Acronym                                            
+Op_Type                                          CS
+Pdf_Id                                     20025151
+Name: 1, dtype: object
+Error en diferencia de fechas. Archivo 20025151.pdf. Nueva Date: 2024-05-13 00:00:00
+ Owner                                                          SP
+Asset            Devon Energy Corporation Common Stock (DVN) [ST]
+Tx_Type                                                         S
+Date                                                   05/13/2021
+Notif_Date                                             05/30/2024
+Amount                                           $1,001 - $15,000
+Filing Status                                                 new
+Acronym                                                       DVN
+Op_Type                                                        ST
+Pdf_Id                                                   20025151
+Name: 2, dtype: object
+Error en diferencia de fechas. Archivo 20025151.pdf. Nueva Date: 2023-07-01 00:00:00
+ Owner                                                       SP
+Asset            Eli Lilly and Company Common Stock (LLY) [ST]
+Tx_Type                                                      P
+Date                                                06/30/2022
+Notif_Date                                          05/30/2024
+Amount                                        $1,001 - $15,000
+Filing Status                                              new
+Acronym                                                    LLY
+Op_Type                                                     ST
+Pdf_Id                                                20025151
+Name: 3, dtype: object
+Error en diferencia de fechas. Archivo 20025151.pdf. Nueva Date: 2024-02-27 00:00:00
+ Owner                                             SP
+Asset            GE Aerospace Common Stock (GE) [ST]
+Tx_Type                                            S
+Date                                      02/27/2019
+Notif_Date                                05/30/2024
+Amount                              $1,001 - $15,000
+Filing Status                                    new
+Acronym                                           GE
+Op_Type                                           ST
+Pdf_Id                                      20025151
+Name: 4, dtype: object
+Error en diferencia de fechas. Archivo 20025151.pdf. Nueva Date: 2023-07-01 00:00:00
+ Owner                                                           SP
+Asset            Meta Platforms, Inc. - Class A Common Stock (M...
+Tx_Type                                                          P
+Date                                                    06/30/2022
+Notif_Date                                              05/30/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                       META
+Op_Type                                                         ST
+Pdf_Id                                                    20025151
+Name: 5, dtype: object
+Error en diferencia de fechas. Archivo 20025151.pdf. Nueva Date: 2023-07-01 00:00:00
+ Owner                                                       SP
+Asset            NVIDIA Corporation - Common Stock (NVDA) [ST]
+Tx_Type                                                      P
+Date                                                06/30/2022
+Notif_Date                                          05/30/2024
+Amount                                        $1,001 - $15,000
+Filing Status                                              new
+Acronym                                                   NVDA
+Op_Type                                                     ST
+Pdf_Id                                                20025151
+Name: 0, dtype: object
+Error en diferencia de fechas. Archivo 20025151.pdf. Nueva Date: 2024-03-01 00:00:00
+ Owner                                                       SP
+Asset            NVIDIA Corporation - Common Stock (NVDA) [ST]
+Tx_Type                                                      S
+Date                                                03/01/2019
+Notif_Date                                          05/30/2024
+Amount                                        $1,001 - $15,000
+Filing Status                                              new
+Acronym                                                   NVDA
+Op_Type                                                     ST
+Pdf_Id                                                20025151
+Name: 1, dtype: object
+Error en diferencia de fechas. Archivo 20025151.pdf. Nueva Date: 2023-07-01 00:00:00
+ Owner                                                   SP
+Asset            Stellantis N.V. Common Shares (STLA) [ST]
+Tx_Type                                                  P
+Date                                            06/30/2021
+Notif_Date                                      05/30/2024
+Amount                                    $1,001 - $15,000
+Filing Status                                          new
+Acronym                                               STLA
+Op_Type                                                 ST
+Pdf_Id                                            20025151
+Name: 5, dtype: object
+Error en diferencia de fechas. Archivo 20025151.pdf. Nueva Date: 2023-07-01 00:00:00
+ Owner                                                           SP
+Asset            Sunshine Biopharma Inc. - Common stock (SBFM) ...
+Tx_Type                                                          P
+Date                                                    06/30/2022
+Notif_Date                                              05/30/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                       SBFM
+Op_Type                                                         ST
+Pdf_Id                                                    20025151
+Name: 6, dtype: object
+Error en diferencia de fechas. Archivo 20025151.pdf. Nueva Date: 2023-07-01 00:00:00
+ Owner                                                           SP
+Asset            Truist Financial Corporation Common Stock (TFC...
+Tx_Type                                                          P
+Date                                                    06/30/2022
+Notif_Date                                              05/30/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                        TFC
+Op_Type                                                         ST
+Pdf_Id                                                    20025151
+Name: 7, dtype: object
+Error en diferencia de fechas. Archivo 20025151.pdf. Nueva Date: 2023-06-23 00:00:00
+ Owner                                        SP
+Asset            Walt Disney Company (DIS) [ST]
+Tx_Type                                       S
+Date                                 06/22/2022
+Notif_Date                           05/30/2024
+Amount                         $1,001 - $15,000
+Filing Status                               new
+Acronym                                     DIS
+Op_Type                                      ST
+Pdf_Id                                 20025151
+Name: 8, dtype: object
+Error en diferencia de fechas. Archivo 20025151.pdf. Nueva Date: 2023-07-01 00:00:00
+ Owner                                        SP
+Asset            Walt Disney Company (DIS) [ST]
+Tx_Type                                       P
+Date                                 06/30/2021
+Notif_Date                           05/30/2024
+Amount                         $1,001 - $15,000
+Filing Status                                 O
+Acronym                                     DIS
+Op_Type                                      ST
+Pdf_Id                                 20025151
+Name: 9, dtype: object
+Error en diferencia de fechas. Archivo 20025151.pdf. Nueva Date: 2024-01-07 00:00:00
+ Owner                                        SP
+Asset            Walt Disney Company (DIS) [ST]
+Tx_Type                                       P
+Date                                 01/07/2023
+Notif_Date                           05/30/2024
+Amount                         $1,001 - $15,000
+Filing Status                               new
+Acronym                                     DIS
+Op_Type                                      ST
+Pdf_Id                                 20025151
+Name: 0, dtype: object
+Error en diferencia de fechas. Archivo 20025151.pdf. Nueva Date: 2023-07-11 00:00:00
+ Owner                                        SP
+Asset            Walt Disney Company (DIS) [ST]
+Tx_Type                                       S
+Date                                 07/10/2019
+Notif_Date                           05/30/2024
+Amount                         $1,001 - $15,000
+Filing Status                               new
+Acronym                                     DIS
+Op_Type                                      ST
+Pdf_Id                                 20025151
+Name: 1, dtype: object
+Error en diferencia de fechas. Archivo 20025446.pdf. Nueva Date: 2204-06-22 00:00:00
+ Owner                            
+Asset              Aerodrome [CT]
+Tx_Type                         P
+Date                   06/22/2024
+Notif_Date             06/22/2204
+Amount           $1,001 - $15,000
+Filing Status                 new
+Acronym                          
+Op_Type                        CT
+Pdf_Id                   20025446
+Name: 0, dtype: object
+Error en diferencia de fechas. Archivo 20025620.pdf. Nueva Date: 2024-06-22 00:00:00
+ Owner                                                           JT
+Asset            US TREASURY BILL23 U S T BILL DUE 09/21/23 (91...
+Tx_Type                                                          P
+Date                                                    06/22/2023
+Notif_Date                                              08/08/2024
+Amount                                           $15,001 - $50,000
+Filing Status                                                  new
+Acronym                                                           
+Op_Type                                                         GS
+Pdf_Id                                                    20025620
+Name: 0, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-01-12 00:00:00
+ Owner                                               SP
+Asset            Adobe Inc. - Common Stock (ADBE) [ST]
+Tx_Type                                              P
+Date                                        01/12/2023
+Notif_Date                                  08/08/2024
+Amount                                $1,001 - $15,000
+Filing Status                                      new
+Acronym                                           ADBE
+Op_Type                                             ST
+Pdf_Id                                        20025622
+Name: 0, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-05-23 00:00:00
+ Owner                                               SP
+Asset            Adobe Inc. - Common Stock (ADBE) [ST]
+Tx_Type                                              P
+Date                                        05/23/2023
+Notif_Date                                  08/08/2024
+Amount                                $1,001 - $15,000
+Filing Status                                      new
+Acronym                                           ADBE
+Op_Type                                             ST
+Pdf_Id                                        20025622
+Name: 1, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-01-12 00:00:00
+ Owner                                                           SP
+Asset            Ameriprise Financial, Inc. Common Stock (AMP) ...
+Tx_Type                                                          P
+Date                                                    01/12/2023
+Notif_Date                                              08/08/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                        AMP
+Op_Type                                                         ST
+Pdf_Id                                                    20025622
+Name: 1, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-01-18 00:00:00
+ Owner                                                           JT
+Asset            Ameriprise Financial, Inc. Common Stock (AMP) ...
+Tx_Type                                                          P
+Date                                                    01/18/2023
+Notif_Date                                              08/08/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                        AMP
+Op_Type                                                         ST
+Pdf_Id                                                    20025622
+Name: 2, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-04-24 00:00:00
+ Owner                                                           JT
+Asset            Ameriprise Financial, Inc. Common Stock (AMP) ...
+Tx_Type                                                          S
+Date                                                    04/24/2023
+Notif_Date                                              08/08/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                        AMP
+Op_Type                                                         ST
+Pdf_Id                                                    20025622
+Name: 3, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-04-24 00:00:00
+ Owner                                                        JT
+Asset            Analog Devices, Inc. - Common Stock (ADI) [ST]
+Tx_Type                                                       P
+Date                                                 04/24/2023
+Notif_Date                                           08/08/2024
+Amount                                         $1,001 - $15,000
+Filing Status                                               new
+Acronym                                                     ADI
+Op_Type                                                      ST
+Pdf_Id                                                 20025622
+Name: 4, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-05-30 00:00:00
+ Owner                                                        JT
+Asset            Analog Devices, Inc. - Common Stock (ADI) [ST]
+Tx_Type                                                       S
+Date                                                 05/30/2023
+Notif_Date                                           08/08/2024
+Amount                                         $1,001 - $15,000
+Filing Status                                               new
+Acronym                                                     ADI
+Op_Type                                                      ST
+Pdf_Id                                                 20025622
+Name: 5, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-06-06 00:00:00
+ Owner                                               SP
+Asset            Apple Inc. - Common Stock (AAPL) [ST]
+Tx_Type                                              P
+Date                                        06/06/2023
+Notif_Date                                  08/08/2024
+Amount                                $1,001 - $15,000
+Filing Status                                      new
+Acronym                                           AAPL
+Op_Type                                             ST
+Pdf_Id                                        20025622
+Name: 6, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-01-12 00:00:00
+ Owner                                                 SP
+Asset            BlackRock, Inc. Common Stock (BLK) [ST]
+Tx_Type                                                P
+Date                                          01/12/2023
+Notif_Date                                    08/08/2024
+Amount                                  $1,001 - $15,000
+Filing Status                                        new
+Acronym                                              BLK
+Op_Type                                               ST
+Pdf_Id                                          20025622
+Name: 8, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-02-02 00:00:00
+ Owner                                                 JT
+Asset            BlackRock, Inc. Common Stock (BLK) [ST]
+Tx_Type                                                P
+Date                                          02/02/2023
+Notif_Date                                    08/08/2024
+Amount                                  $1,001 - $15,000
+Filing Status                                        new
+Acronym                                              BLK
+Op_Type                                               ST
+Pdf_Id                                          20025622
+Name: 0, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-03-09 00:00:00
+ Owner                                                 JT
+Asset            BlackRock, Inc. Common Stock (BLK) [ST]
+Tx_Type                                                S
+Date                                          03/09/2023
+Notif_Date                                    08/08/2024
+Amount                                  $1,001 - $15,000
+Filing Status                                        new
+Acronym                                              BLK
+Op_Type                                               ST
+Pdf_Id                                          20025622
+Name: 1, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-01-12 00:00:00
+ Owner                                                           SP
+Asset            Costco Wholesale Corporation - Common Stock (C...
+Tx_Type                                                          P
+Date                                                    01/12/2023
+Notif_Date                                              08/08/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                       COST
+Op_Type                                                         ST
+Pdf_Id                                                    20025622
+Name: 7, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-05-23 00:00:00
+ Owner                                                           SP
+Asset            CrowdStrike Holdings, Inc. - Class A Common St...
+Tx_Type                                                          P
+Date                                                    05/23/2023
+Notif_Date                                              08/08/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                       CRWD
+Op_Type                                                         ST
+Pdf_Id                                                    20025622
+Name: 1, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-01-18 00:00:00
+ Owner                                                           JT
+Asset            Diamondback Energy, Inc. - Common Stock (FANG)...
+Tx_Type                                                          S
+Date                                                    01/18/2023
+Notif_Date                                              08/08/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                       FANG
+Op_Type                                                         ST
+Pdf_Id                                                    20025622
+Name: 3, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-01-18 00:00:00
+ Owner                                                           JT
+Asset            Dollar General Corporation Common Stock (DG) [ST]
+Tx_Type                                                          S
+Date                                                    01/18/2023
+Notif_Date                                              08/08/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                         DG
+Op_Type                                                         ST
+Pdf_Id                                                    20025622
+Name: 7, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-01-18 00:00:00
+ Owner                                                       JT
+Asset            Eli Lilly and Company Common Stock (LLY) [ST]
+Tx_Type                                                      P
+Date                                                01/18/2023
+Notif_Date                                          08/08/2024
+Amount                                        $1,001 - $15,000
+Filing Status                                              new
+Acronym                                                    LLY
+Op_Type                                                     ST
+Pdf_Id                                                20025622
+Name: 8, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-02-02 00:00:00
+ Owner                                                       JT
+Asset            Eli Lilly and Company Common Stock (LLY) [ST]
+Tx_Type                                                      S
+Date                                                02/02/2023
+Notif_Date                                          08/08/2024
+Amount                                        $1,001 - $15,000
+Filing Status                                              new
+Acronym                                                    LLY
+Op_Type                                                     ST
+Pdf_Id                                                20025622
+Name: 0, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-05-11 00:00:00
+ Owner                                                       JT
+Asset            Eli Lilly and Company Common Stock (LLY) [ST]
+Tx_Type                                                      P
+Date                                                05/11/2023
+Notif_Date                                          08/08/2024
+Amount                                        $1,001 - $15,000
+Filing Status                                              new
+Acronym                                                    LLY
+Op_Type                                                     ST
+Pdf_Id                                                20025622
+Name: 1, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-01-18 00:00:00
+ Owner                                                 JT
+Asset            Honeywell International Inc. (HON) [ST]
+Tx_Type                                                S
+Date                                          01/18/2023
+Notif_Date                                    08/08/2024
+Amount                                  $1,001 - $15,000
+Filing Status                                        new
+Acronym                                              HON
+Op_Type                                               ST
+Pdf_Id                                          20025622
+Name: 5, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-01-18 00:00:00
+ Owner                             JT
+Asset            Horizon Pharma [OT]
+Tx_Type                            P
+Date                      01/18/2023
+Notif_Date                08/08/2024
+Amount              $1,001 - $15,000
+Filing Status                    new
+Acronym                             
+Op_Type                           OT
+Pdf_Id                      20025622
+Name: 6, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-02-01 00:00:00
+ Owner                             JT
+Asset            Horizon Pharma [OT]
+Tx_Type                            S
+Date                      02/01/2023
+Notif_Date                08/08/2024
+Amount              $1,001 - $15,000
+Filing Status                    new
+Acronym                             
+Op_Type                           OT
+Pdf_Id                      20025622
+Name: 7, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-02-03 00:00:00
+ Owner                                                           SP
+Asset            Horizon Therapeutics Public Limited Company - ...
+Tx_Type                                                          S
+Date                                                    02/03/2023
+Notif_Date                                              08/08/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                    O
+Acronym                                                       HZNP
+Op_Type                                                         ST
+Pdf_Id                                                    20025622
+Name: 8, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-05-04 00:00:00
+ Owner                                                           JT
+Asset            Intuitive Surgical, Inc. - Common Stock (ISRG)...
+Tx_Type                                                          P
+Date                                                    05/04/2023
+Notif_Date                                              08/08/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                       ISRG
+Op_Type                                                         ST
+Pdf_Id                                                    20025622
+Name: 1, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-05-30 00:00:00
+ Owner                                                           JT
+Asset            Intuitive Surgical, Inc. - Common Stock (ISRG)...
+Tx_Type                                                          P
+Date                                                    05/30/2023
+Notif_Date                                              08/08/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                       ISRG
+Op_Type                                                         ST
+Pdf_Id                                                    20025622
+Name: 2, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-08-02 00:00:00
+ Owner                                                           JT
+Asset            Intuitive Surgical, Inc. - Common Stock (ISRG)...
+Tx_Type                                                S (PARTIAL)
+Date                                                    08/02/2023
+Notif_Date                                              08/08/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                       ISRG
+Op_Type                                                         ST
+Pdf_Id                                                    20025622
+Name: 3, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-02-01 00:00:00
+ Owner                                                           SP
+Asset            Intuitive Surgical, Inc. - Common Stock (ISRG)...
+Tx_Type                                                          P
+Date                                                    02/01/2023
+Notif_Date                                              08/08/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                       ISRG
+Op_Type                                                         ST
+Pdf_Id                                                    20025622
+Name: 5, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-01-18 00:00:00
+ Owner                                                JT
+Asset            Linde plc - Ordinary Shares (LIN) [ST]
+Tx_Type                                     S (PARTIAL)
+Date                                         01/18/2023
+Notif_Date                                   08/08/2024
+Amount                                 $1,001 - $15,000
+Filing Status                                       new
+Acronym                                             LIN
+Op_Type                                              ST
+Pdf_Id                                         20025622
+Name: 1, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-06-22 00:00:00
+ Owner                                                JT
+Asset            Linde plc - Ordinary Shares (LIN) [ST]
+Tx_Type                                               S
+Date                                         06/22/2023
+Notif_Date                                   08/08/2024
+Amount                                 $1,001 - $15,000
+Filing Status                                       new
+Acronym                                             LIN
+Op_Type                                              ST
+Pdf_Id                                         20025622
+Name: 2, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-05-30 00:00:00
+ Owner                                                          JT
+Asset            Microsoft Corporation - Common Stock (MSFT) [ST]
+Tx_Type                                                         P
+Date                                                   05/30/2023
+Notif_Date                                             08/08/2024
+Amount                                           $1,001 - $15,000
+Filing Status                                                 new
+Acronym                                                      MSFT
+Op_Type                                                        ST
+Pdf_Id                                                   20025622
+Name: 3, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-08-02 00:00:00
+ Owner                                                          JT
+Asset            Microsoft Corporation - Common Stock (MSFT) [ST]
+Tx_Type                                               S (PARTIAL)
+Date                                                   08/02/2023
+Notif_Date                                             08/08/2024
+Amount                                           $1,001 - $15,000
+Filing Status                                                 new
+Acronym                                                      MSFT
+Op_Type                                                        ST
+Pdf_Id                                                   20025622
+Name: 4, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-01-18 00:00:00
+ Owner                                                      JT
+Asset            NextEra Energy, Inc. Common Stock (NEE) [ST]
+Tx_Type                                                     S
+Date                                               01/18/2023
+Notif_Date                                         08/08/2024
+Amount                                       $1,001 - $15,000
+Filing Status                                             new
+Acronym                                                   NEE
+Op_Type                                                    ST
+Pdf_Id                                               20025622
+Name: 7, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-02-01 00:00:00
+ Owner                                                       JT
+Asset            NVIDIA Corporation - Common Stock (NVDA) [ST]
+Tx_Type                                                      P
+Date                                                02/01/2023
+Notif_Date                                          08/08/2024
+Amount                                        $1,001 - $15,000
+Filing Status                                              new
+Acronym                                                   NVDA
+Op_Type                                                     ST
+Pdf_Id                                                20025622
+Name: 8, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-03-27 00:00:00
+ Owner                                                       JT
+Asset            NVIDIA Corporation - Common Stock (NVDA) [ST]
+Tx_Type                                            S (PARTIAL)
+Date                                                03/27/2023
+Notif_Date                                          08/08/2024
+Amount                                        $1,001 - $15,000
+Filing Status                                                O
+Acronym                                                   NVDA
+Op_Type                                                     ST
+Pdf_Id                                                20025622
+Name: 9, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-05-30 00:00:00
+ Owner                                                       JT
+Asset            NVIDIA Corporation - Common Stock (NVDA) [ST]
+Tx_Type                                            S (PARTIAL)
+Date                                                05/30/2023
+Notif_Date                                          08/08/2024
+Amount                                        $1,001 - $15,000
+Filing Status                                              new
+Acronym                                                   NVDA
+Op_Type                                                     ST
+Pdf_Id                                                20025622
+Name: 1, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-01-12 00:00:00
+ Owner                                                       SP
+Asset            NVIDIA Corporation - Common Stock (NVDA) [ST]
+Tx_Type                                                      P
+Date                                                01/12/2023
+Notif_Date                                          08/08/2024
+Amount                                        $1,001 - $15,000
+Filing Status                                              new
+Acronym                                                   NVDA
+Op_Type                                                     ST
+Pdf_Id                                                20025622
+Name: 3, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-08-02 00:00:00
+ Owner                                                       JT
+Asset            NVIDIA Corporation - Common Stock (NVDA) [ST]
+Tx_Type                                            S (PARTIAL)
+Date                                                08/02/2023
+Notif_Date                                          08/08/2024
+Amount                                        $1,001 - $15,000
+Filing Status                                              new
+Acronym                                                   NVDA
+Op_Type                                                     ST
+Pdf_Id                                                20025622
+Name: 4, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-01-18 00:00:00
+ Owner                                                           JT
+Asset            Parker-Hannifin Corporation Common Stock (PH) ...
+Tx_Type                                                          P
+Date                                                    01/18/2023
+Notif_Date                                              08/08/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                         PH
+Op_Type                                                         ST
+Pdf_Id                                                    20025622
+Name: 8, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-04-27 00:00:00
+ Owner                                                           JT
+Asset            Parker-Hannifin Corporation Common Stock (PH) ...
+Tx_Type                                                S (PARTIAL)
+Date                                                    04/27/2023
+Notif_Date                                              08/08/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                    O
+Acronym                                                         PH
+Op_Type                                                         ST
+Pdf_Id                                                    20025622
+Name: 9, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-05-04 00:00:00
+ Owner                                                           JT
+Asset            Parker-Hannifin Corporation Common Stock (PH) ...
+Tx_Type                                                          S
+Date                                                    05/04/2023
+Notif_Date                                              08/08/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                         PH
+Op_Type                                                         ST
+Pdf_Id                                                    20025622
+Name: 1, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-01-12 00:00:00
+ Owner                                                  SP
+Asset            Salesforce, Inc. Common Stock (CRM) [ST]
+Tx_Type                                                 P
+Date                                           01/12/2023
+Notif_Date                                     08/08/2024
+Amount                                   $1,001 - $15,000
+Filing Status                                         new
+Acronym                                               CRM
+Op_Type                                                ST
+Pdf_Id                                           20025622
+Name: 4, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-04-24 00:00:00
+ Owner                                                  JT
+Asset            Salesforce, Inc. Common Stock (CRM) [ST]
+Tx_Type                                                 P
+Date                                           04/24/2023
+Notif_Date                                     08/08/2024
+Amount                                   $1,001 - $15,000
+Filing Status                                         new
+Acronym                                               CRM
+Op_Type                                                ST
+Pdf_Id                                           20025622
+Name: 5, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-05-25 00:00:00
+ Owner                                                          SP
+Asset            Uber Technologies, Inc. Common Stock (UBER) [ST]
+Tx_Type                                               S (PARTIAL)
+Date                                                   05/25/2023
+Notif_Date                                             08/08/2024
+Amount                                           $1,001 - $15,000
+Filing Status                                                 new
+Acronym                                                      UBER
+Op_Type                                                        ST
+Pdf_Id                                                   20025622
+Name: 1, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-03-09 00:00:00
+ Owner                                                          JT
+Asset            Uber Technologies, Inc. Common Stock (UBER) [ST]
+Tx_Type                                                         P
+Date                                                   03/09/2023
+Notif_Date                                             08/08/2024
+Amount                                           $1,001 - $15,000
+Filing Status                                                 new
+Acronym                                                      UBER
+Op_Type                                                        ST
+Pdf_Id                                                   20025622
+Name: 2, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-04-24 00:00:00
+ Owner                                                          JT
+Asset            Uber Technologies, Inc. Common Stock (UBER) [ST]
+Tx_Type                                                         S
+Date                                                   04/24/2023
+Notif_Date                                             08/08/2024
+Amount                                           $1,001 - $15,000
+Filing Status                                                 new
+Acronym                                                      UBER
+Op_Type                                                        ST
+Pdf_Id                                                   20025622
+Name: 3, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-06-23 00:00:00
+ Owner                                                          JT
+Asset            Uber Technologies, Inc. Common Stock (UBER) [ST]
+Tx_Type                                                         P
+Date                                                   06/23/2023
+Notif_Date                                             08/08/2024
+Amount                                           $1,001 - $15,000
+Filing Status                                                 new
+Acronym                                                      UBER
+Op_Type                                                        ST
+Pdf_Id                                                   20025622
+Name: 4, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-08-02 00:00:00
+ Owner                                                          JT
+Asset            Uber Technologies, Inc. Common Stock (UBER) [ST]
+Tx_Type                                               S (PARTIAL)
+Date                                                   08/02/2023
+Notif_Date                                             08/08/2024
+Amount                                           $1,001 - $15,000
+Filing Status                                                 new
+Acronym                                                      UBER
+Op_Type                                                        ST
+Pdf_Id                                                   20025622
+Name: 5, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-01-12 00:00:00
+ Owner                                                      SP
+Asset            United Rentals, Inc. Common Stock (URI) [ST]
+Tx_Type                                                     P
+Date                                               01/12/2023
+Notif_Date                                         08/08/2024
+Amount                                       $1,001 - $15,000
+Filing Status                                             new
+Acronym                                                   URI
+Op_Type                                                    ST
+Pdf_Id                                               20025622
+Name: 8, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-01-18 00:00:00
+ Owner                                                      JT
+Asset            United Rentals, Inc. Common Stock (URI) [ST]
+Tx_Type                                           S (PARTIAL)
+Date                                               01/18/2023
+Notif_Date                                         08/08/2024
+Amount                                       $1,001 - $15,000
+Filing Status                                               O
+Acronym                                                   URI
+Op_Type                                                    ST
+Pdf_Id                                               20025622
+Name: 9, dtype: object
+Error en diferencia de fechas. Archivo 20025622.pdf. Nueva Date: 2024-05-11 00:00:00
+ Owner                                                      JT
+Asset            United Rentals, Inc. Common Stock (URI) [ST]
+Tx_Type                                                     S
+Date                                               05/11/2023
+Notif_Date                                         08/08/2024
+Amount                                       $1,001 - $15,000
+Filing Status                                             new
+Acronym                                                   URI
+Op_Type                                                    ST
+Pdf_Id                                               20025622
+Name: 1, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                          
+Asset            A.O. Smith Corporation Common Stock (AOS) [ST]
+Tx_Type                                                       P
+Date                                                 07/14/2023
+Notif_Date                                           08/12/2024
+Amount                                         $1,001 - $15,000
+Filing Status                                               new
+Acronym                                                     AOS
+Op_Type                                                      ST
+Pdf_Id                                                 20025712
+Name: 0, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                            
+Asset            Accenture plc Class A Ordinary Shares (ACN) [ST]
+Tx_Type                                                         P
+Date                                                   07/14/2023
+Notif_Date                                             08/12/2024
+Amount                                           $1,001 - $15,000
+Filing Status                                                 new
+Acronym                                                       ACN
+Op_Type                                                        ST
+Pdf_Id                                                   20025712
+Name: 2, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                             
+Asset            Alphabet Inc. - Class C Capital Stock (GOOG) [ST]
+Tx_Type                                                          P
+Date                                                    07/14/2023
+Notif_Date                                              08/12/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                       GOOG
+Op_Type                                                         ST
+Pdf_Id                                                    20025712
+Name: 0, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                 
+Asset            Amgen Inc. - Common Stock (AMGN) [ST]
+Tx_Type                                              P
+Date                                        07/14/2023
+Notif_Date                                  08/12/2024
+Amount                                $1,001 - $15,000
+Filing Status                                      new
+Acronym                                           AMGN
+Op_Type                                             ST
+Pdf_Id                                        20025712
+Name: 1, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                          
+Asset            Analog Devices, Inc. - Common Stock (ADI) [ST]
+Tx_Type                                                       P
+Date                                                 07/14/2023
+Notif_Date                                           08/12/2024
+Amount                                         $1,001 - $15,000
+Filing Status                                               new
+Acronym                                                     ADI
+Op_Type                                                      ST
+Pdf_Id                                                 20025712
+Name: 2, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                             
+Asset            Automatic Data Processing, Inc. - Common Stock...
+Tx_Type                                                          P
+Date                                                    07/14/2023
+Notif_Date                                              08/12/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                        ADP
+Op_Type                                                         ST
+Pdf_Id                                                    20025712
+Name: 6, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                             
+Asset            Berkshire Hathaway Inc. New Common Stock (BRK....
+Tx_Type                                                          P
+Date                                                    07/14/2023
+Notif_Date                                              08/12/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                        BRK
+Op_Type                                                         ST
+Pdf_Id                                                    20025712
+Name: 7, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                       
+Asset            Chevron Corporation Common Stock (CVX) [ST]
+Tx_Type                                                    P
+Date                                              07/14/2023
+Notif_Date                                        08/12/2024
+Amount                                      $1,001 - $15,000
+Filing Status                                            new
+Acronym                                                  CVX
+Op_Type                                                   ST
+Pdf_Id                                              20025712
+Name: 1, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                 
+Asset            Citigroup, Inc. Common Stock (C) [ST]
+Tx_Type                                              S
+Date                                        07/14/2023
+Notif_Date                                  08/12/2024
+Amount                               $15,001 - $50,000
+Filing Status                                      new
+Acronym                                              C
+Op_Type                                             ST
+Pdf_Id                                        20025712
+Name: 2, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                             
+Asset            Costco Wholesale Corporation - Common Stock (C...
+Tx_Type                                                          P
+Date                                                    07/14/2023
+Notif_Date                                              08/12/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                       COST
+Op_Type                                                         ST
+Pdf_Id                                                    20025712
+Name: 3, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                             
+Asset            Dollar General Corporation Common Stock (DG) [ST]
+Tx_Type                                                          S
+Date                                                    07/14/2023
+Notif_Date                                              08/12/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                         DG
+Op_Type                                                         ST
+Pdf_Id                                                    20025712
+Name: 6, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                           
+Asset            Exxon Mobil Corporation Common Stock (XOM) [ST]
+Tx_Type                                                        P
+Date                                                  07/14/2023
+Notif_Date                                            08/12/2024
+Amount                                          $1,001 - $15,000
+Filing Status                                                new
+Acronym                                                      XOM
+Op_Type                                                       ST
+Pdf_Id                                                  20025712
+Name: 2, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                      
+Asset            Home Depot, Inc. (HD) [ST]
+Tx_Type                                   P
+Date                             07/14/2023
+Notif_Date                       08/12/2024
+Amount                     $1,001 - $15,000
+Filing Status                           new
+Acronym                                  HD
+Op_Type                                  ST
+Pdf_Id                             20025712
+Name: 4, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                            
+Asset            Hormel Foods Corporation Common Stock (HRL) [ST]
+Tx_Type                                                         P
+Date                                                   07/14/2023
+Notif_Date                                             08/12/2024
+Amount                                           $1,001 - $15,000
+Filing Status                                                 new
+Acronym                                                       HRL
+Op_Type                                                        ST
+Pdf_Id                                                   20025712
+Name: 5, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                        
+Asset            Intel Corporation - Common Stock (INTC) [ST]
+Tx_Type                                                     S
+Date                                               07/14/2023
+Notif_Date                                         08/12/2024
+Amount                                      $15,001 - $50,000
+Filing Status                                             new
+Acronym                                                  INTC
+Op_Type                                                    ST
+Pdf_Id                                               20025712
+Name: 7, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                          
+Asset            Johnson & Johnson Common Stock
+Tx_Type                                       P
+Date                                 07/14/2023
+Notif_Date                           08/12/2024
+Amount                         $1,001 - $15,000
+Filing Status                                 O
+Acronym                                        
+Op_Type                                        
+Pdf_Id                                 20025712
+Name: 9, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                          
+Asset            Lowe's Companies, Inc. Common Stock (LOW) [ST]
+Tx_Type                                                       P
+Date                                                 07/14/2023
+Notif_Date                                           08/12/2024
+Amount                                         $1,001 - $15,000
+Filing Status                                               new
+Acronym                                                     LOW
+Op_Type                                                      ST
+Pdf_Id                                                 20025712
+Name: 4, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                          
+Asset            Mastercard Incorporated Common Stock (MA) [ST]
+Tx_Type                                                       P
+Date                                                 07/14/2023
+Notif_Date                                           08/12/2024
+Amount                                         $1,001 - $15,000
+Filing Status                                               new
+Acronym                                                      MA
+Op_Type                                                      ST
+Pdf_Id                                                 20025712
+Name: 5, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                          
+Asset            McDonald's Corporation Common Stock (MCD) [ST]
+Tx_Type                                                       P
+Date                                                 07/14/2023
+Notif_Date                                           08/12/2024
+Amount                                         $1,001 - $15,000
+Filing Status                                               new
+Acronym                                                     MCD
+Op_Type                                                      ST
+Pdf_Id                                                 20025712
+Name: 6, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                          
+Asset            Medtronic plc. Ordinary Shares
+Tx_Type                                       P
+Date                                 07/14/2023
+Notif_Date                           08/12/2024
+Amount                         $1,001 - $15,000
+Filing Status                                 O
+Acronym                                        
+Op_Type                                        
+Pdf_Id                                 20025712
+Name: 9, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                         
+Asset            Merck & Company, Inc. Common Stock (MRK) [ST]
+Tx_Type                                                      P
+Date                                                07/14/2023
+Notif_Date                                          08/12/2024
+Amount                                        $1,001 - $15,000
+Filing Status                                              new
+Acronym                                                    MRK
+Op_Type                                                     ST
+Pdf_Id                                                20025712
+Name: 1, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                            
+Asset            Microsoft Corporation - Common Stock (MSFT) [ST]
+Tx_Type                                                         P
+Date                                                   07/14/2023
+Notif_Date                                             08/12/2024
+Amount                                           $1,001 - $15,000
+Filing Status                                                 new
+Acronym                                                      MSFT
+Op_Type                                                        ST
+Pdf_Id                                                   20025712
+Name: 4, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                        
+Asset            NextEra Energy, Inc. Common Stock (NEE) [ST]
+Tx_Type                                                     P
+Date                                               07/14/2023
+Notif_Date                                         08/12/2024
+Amount                                       $1,001 - $15,000
+Filing Status                                             new
+Acronym                                                   NEE
+Op_Type                                                    ST
+Pdf_Id                                               20025712
+Name: 7, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                    
+Asset            Pepsico, Inc. (PEP) [ST]
+Tx_Type                                 P
+Date                           07/14/2023
+Notif_Date                     08/12/2024
+Amount                   $1,001 - $15,000
+Filing Status                         new
+Acronym                               PEP
+Op_Type                                ST
+Pdf_Id                           20025712
+Name: 1, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                              
+Asset            Procter & Gamble Company (PG) [ST]
+Tx_Type                                           P
+Date                                     07/14/2023
+Notif_Date                               08/12/2024
+Amount                             $1,001 - $15,000
+Filing Status                                   new
+Acronym                                          PG
+Op_Type                                          ST
+Pdf_Id                                     20025712
+Name: 3, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                             
+Asset            Public Service Enterprise Group Incorporated C...
+Tx_Type                                                          P
+Date                                                    07/14/2023
+Notif_Date                                              08/12/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                        PEG
+Op_Type                                                         ST
+Pdf_Id                                                    20025712
+Name: 4, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                             
+Asset            Raymond James Financial, Inc. Common Stock (RJ...
+Tx_Type                                                          S
+Date                                                    07/14/2023
+Notif_Date                                              08/12/2024
+Amount                                         $100,001 - $250,000
+Filing Status                                                  new
+Acronym                                                        RJF
+Op_Type                                                         ST
+Pdf_Id                                                    20025712
+Name: 5, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                               
+Asset            Roper Technologies, Inc. (ROP) [ST]
+Tx_Type                                            P
+Date                                      07/14/2023
+Notif_Date                                08/12/2024
+Amount                              $1,001 - $15,000
+Filing Status                                    new
+Acronym                                          ROP
+Op_Type                                           ST
+Pdf_Id                                      20025712
+Name: 6, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                    
+Asset            S&P Global Inc. Common Stock (SPGI) [ST]
+Tx_Type                                                 P
+Date                                           07/14/2023
+Notif_Date                                     08/12/2024
+Amount                                   $1,001 - $15,000
+Filing Status                                         new
+Acronym                                              SPGI
+Op_Type                                                ST
+Pdf_Id                                           20025712
+Name: 9, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                      
+Asset            Southern Company (SO) [ST]
+Tx_Type                                   P
+Date                             07/14/2023
+Notif_Date                       08/12/2024
+Amount                     $1,001 - $15,000
+Filing Status                           new
+Acronym                                  SO
+Op_Type                                  ST
+Pdf_Id                             20025712
+Name: 2, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                            
+Asset            Starbucks Corporation - Common Stock (SBUX) [ST]
+Tx_Type                                                         P
+Date                                                   07/14/2023
+Notif_Date                                             08/12/2024
+Amount                                           $1,001 - $15,000
+Filing Status                                                 new
+Acronym                                                      SBUX
+Op_Type                                                        ST
+Pdf_Id                                                   20025712
+Name: 4, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                 
+Asset            STERIS plc (STE) [ST]
+Tx_Type                              P
+Date                        07/14/2023
+Notif_Date                  08/12/2024
+Amount                $1,001 - $15,000
+Filing Status                      new
+Acronym                            STE
+Op_Type                             ST
+Pdf_Id                        20025712
+Name: 5, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                      
+Asset            Target Corporation Common Stock (TGT) [ST]
+Tx_Type                                                   P
+Date                                             07/14/2023
+Notif_Date                                       08/12/2024
+Amount                                     $1,001 - $15,000
+Filing Status                                           new
+Acronym                                                 TGT
+Op_Type                                                  ST
+Pdf_Id                                             20025712
+Name: 8, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                             
+Asset            Texas Instruments Incorporated - Common Stock ...
+Tx_Type                                                          P
+Date                                                    07/14/2023
+Notif_Date                                              08/12/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                        TXN
+Op_Type                                                         ST
+Pdf_Id                                                    20025712
+Name: 0, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                             
+Asset            UnitedHealth Group Incorporated Common Stock (...
+Tx_Type                                                          P
+Date                                                    07/14/2023
+Notif_Date                                              08/12/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                        UNH
+Op_Type                                                         ST
+Pdf_Id                                                    20025712
+Name: 5, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                              
+Asset            Visa Inc. (V) [ST]
+Tx_Type                           P
+Date                     07/14/2023
+Notif_Date               08/12/2024
+Amount             $1,001 - $15,000
+Filing Status                   new
+Acronym                           V
+Op_Type                          ST
+Pdf_Id                     20025712
+Name: 7, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                       
+Asset            W.W. Grainger, Inc. Common Stock (GWW) [ST]
+Tx_Type                                                    P
+Date                                              07/14/2023
+Notif_Date                                        08/12/2024
+Amount                                     $15,001 - $50,000
+Filing Status                                            new
+Acronym                                                  GWW
+Op_Type                                                   ST
+Pdf_Id                                              20025712
+Name: 8, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                          
+Asset            Walt Disney Company (DIS) [ST]
+Tx_Type                                       S
+Date                                 07/14/2023
+Notif_Date                           08/12/2024
+Amount                         $1,001 - $15,000
+Filing Status                                 O
+Acronym                                     DIS
+Op_Type                                      ST
+Pdf_Id                                 20025712
+Name: 9, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                          
+Asset            WEC Energy Group, Inc. Common Stock (WEC) [ST]
+Tx_Type                                                       P
+Date                                                 07/14/2023
+Notif_Date                                           08/12/2024
+Amount                                         $1,001 - $15,000
+Filing Status                                               new
+Acronym                                                     WEC
+Op_Type                                                      ST
+Pdf_Id                                                 20025712
+Name: 1, dtype: object
+Error en diferencia de fechas. Archivo 20025712.pdf. Nueva Date: 2024-07-14 00:00:00
+ Owner                                                             
+Asset            West Pharmaceutical Services, Inc. Common Stoc...
+Tx_Type                                                          P
+Date                                                    07/14/2023
+Notif_Date                                              08/12/2024
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                        WST
+Op_Type                                                         ST
+Pdf_Id                                                    20025712
+Name: 2, dtype: object
+Error en diferencia de fechas1. Archivo 20025719.pdf. Nueva notifD: 2024-08-12 00:00:00
+ Owner                                                             
+Asset            Microchip Technology Incorporated - Common Sto...
+Tx_Type                                                          P
+Date                                                    11/10/2023
+Notif_Date                                              08/13/2023
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                       MCHP
+Op_Type                                                         ST
+Pdf_Id                                                    20025719
+Name: 6, dtype: object
+Error en diferencia de fechas. Archivo 20025799.pdf. Nueva Date: 2025-09-04 00:00:00
+ Owner                                                             
+Asset            Union Pacific Corporation Common Stock (UNP) [ST]
+Tx_Type                                                          S
+Date                                                    09/04/2024
+Notif_Date                                              09/05/2025
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                        UNP
+Op_Type                                                         ST
+Pdf_Id                                                    20025799
+Name: 7, dtype: object

@@ -1,0 +1,25 @@
+ARCHIVO PARA SABER QUE ARCHIVOS TIENEN MAL ALGUNA FECHA
+Error en diferencia de fechas1. Archivo 20030977.pdf. Nueva notifD: 2026-08-11 00:00:00
+ Owner                                                             
+Asset            Universal Health Services, Inc. Common Stock (...
+Tx_Type                                                          P
+Date                                                    10/23/2025
+Notif_Date                                              08/11/2025
+Amount                                            $1,001 - $15,000
+Filing Status                                                  new
+Acronym                                                        UHS
+Op_Type                                                         ST
+Pdf_Id                                                    20030977
+Name: 0, dtype: object
+Error en diferencia de fechas1. Archivo 20030977.pdf. Nueva notifD: 2026-08-11 00:00:00
+ Owner                                           
+Asset            US Treasury Note 3/31/2025 [GS]
+Tx_Type                                        P
+Date                                  10/25/2025
+Notif_Date                            08/11/2025
+Amount                          $1,001 - $15,000
+Filing Status                                new
+Acronym                                         
+Op_Type                                       GS
+Pdf_Id                                  20030977
+Name: 8, dtype: object

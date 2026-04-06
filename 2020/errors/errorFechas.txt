@@ -1,0 +1,325 @@
+ARCHIVO PARA SABER QUE ARCHIVOS TIENEN MAL ALGUNA FECHA
+Error en diferencia de fechas1. Archivo 20013832.pdf. Nueva notifD: 2021-01-01 00:00:00
+ Owner                                                  JT
+Asset            Berkshire Hathaway Inc. New (BRK.B) [ST]
+Tx_Type                                                 P
+Date                                           12/24/2020
+Notif_Date                                     01/02/2020
+Amount                                   $1,001 - $15,000
+Filing Status                                         new
+Acronym                                               BRK
+Op_Type                                                ST
+Pdf_Id                                           20013832
+Name: 3, dtype: object
+Error en diferencia de fechas1. Archivo 20013832.pdf. Nueva notifD: 2021-01-01 00:00:00
+ Owner                                JT
+Asset            BLF FedFund TDDXX [CS]
+Tx_Type                               S
+Date                         12/26/2020
+Notif_Date                   01/02/2020
+Amount                 $1,001 - $15,000
+Filing Status                       new
+Acronym                                
+Op_Type                              CS
+Pdf_Id                         20013832
+Name: 4, dtype: object
+Error en diferencia de fechas1. Archivo 20013919.pdf. Nueva notifD: 2021-01-02 00:00:00
+ Owner                                             
+Asset            Starbucks Corporation (SBuX) [ST]
+Tx_Type                                          S
+Date                                    12/18/2020
+Notif_Date                              01/03/2020
+Amount                            $1,001 - $15,000
+Filing Status                                  new
+Acronym                                       SBUX
+Op_Type                                         ST
+Pdf_Id                                    20013919
+Name: 3, dtype: object
+Error en diferencia de fechas. Archivo 20014973.pdf. Nueva Date: 2020-01-10 00:00:00
+ Owner                                                  
+Asset            Invesco QQQ Trust, Series 1 (QQQ) [ST]
+Tx_Type                                               S
+Date                                         01/10/2019
+Notif_Date                                   01/29/2020
+Amount                                 $1,001 - $15,000
+Filing Status                                       new
+Acronym                                             QQQ
+Op_Type                                              ST
+Pdf_Id                                         20014973
+Name: 7, dtype: object
+Error en diferencia de fechas. Archivo 20014973.pdf. Nueva Date: 2020-01-10 00:00:00
+ Owner                                                  
+Asset            Invesco QQQ Trust, Series 1 (QQQ) [ST]
+Tx_Type                                               S
+Date                                         01/10/2019
+Notif_Date                                   01/29/2020
+Amount                                 $1,001 - $15,000
+Filing Status                                       new
+Acronym                                             QQQ
+Op_Type                                              ST
+Pdf_Id                                         20014973
+Name: 8, dtype: object
+Error en diferencia de fechas. Archivo 20014973.pdf. Nueva Date: 2020-06-21 00:00:00
+ Owner                                                          
+Asset            Vanguard FTSE Developed Markets ETF (VEA) [ST]
+Tx_Type                                                       P
+Date                                                 06/21/2019
+Notif_Date                                           07/30/2020
+Amount                                         $1,001 - $15,000
+Filing Status                                               new
+Acronym                                                     VEA
+Op_Type                                                      ST
+Pdf_Id                                                 20014973
+Name: 3, dtype: object
+Error en diferencia de fechas. Archivo 20014973.pdf. Nueva Date: 2020-01-10 00:00:00
+ Owner                                                    
+Asset            Vanguard Information Tech ETF (VgT) [ST]
+Tx_Type                                                 P
+Date                                           01/10/2019
+Notif_Date                                     07/30/2020
+Amount                                   $1,001 - $15,000
+Filing Status                                         new
+Acronym                                               VGT
+Op_Type                                                ST
+Pdf_Id                                           20014973
+Name: 4, dtype: object
+Error en diferencia de fechas2. Archivo 20016695.pdf. Nueva notifD: 2020-05-14 00:00:00
+ Owner                                                 JT
+Asset            One liberty Properties, Inc. (OlP) [sT]
+Tx_Type                                                P
+Date                                          05/14/2020
+Notif_Date                                    05/14/2002
+Amount                                  $1,001 - $15,000
+Filing Status                                        new
+Acronym                                              OLP
+Op_Type                                               ST
+Pdf_Id                                          20016695
+Name: 3, dtype: object
+Error en diferencia de fechas. Archivo 20016922.pdf. Nueva Date: 2020-05-03 00:00:00
+ Owner                                          JT
+Asset            Digimarc Corporation (DMRC) [ST]
+Tx_Type                                         S
+Date                                   05/03/2019
+Notif_Date                             07/06/2020
+Amount                           $1,001 - $15,000
+Filing Status                                 new
+Acronym                                      DMRC
+Op_Type                                        ST
+Pdf_Id                                   20016922
+Name: 0, dtype: object
+Error en diferencia de fechas. Archivo 20017020.pdf. Nueva Date: 2020-07-01 00:00:00
+ Owner                                                SP
+Asset            l3Harris Technologies, Inc. (lHX) [ST]
+Tx_Type                                               E
+Date                                         07/01/2019
+Notif_Date                                   07/24/2020
+Amount                                 $1,001 - $15,000
+Filing Status                                       new
+Acronym                                             LHX
+Op_Type                                              ST
+Pdf_Id                                         20017020
+Name: 0, dtype: object
+Error en diferencia de fechas. Archivo 20017109.pdf. Nueva Date: 2020-06-19 00:00:00
+ Owner                                             
+Asset            united States Treasury Notes [gS]
+Tx_Type                                S (PARTIAL)
+Date                                    06/19/2019
+Notif_Date                              08/06/2020
+Amount                          $50,001 - $100,000
+Filing Status                                  new
+Acronym                                           
+Op_Type                                         GS
+Pdf_Id                                    20017109
+Name: 0, dtype: object
+Error en diferencia de fechas. Archivo 20017157.pdf. Nueva Date: 2020-07-03 00:00:00
+ Owner                                         
+Asset            Mobile Mini, Inc. (MINI) [ST]
+Tx_Type                                      E
+Date                                07/03/2019
+Notif_Date                          08/19/2020
+Amount                        $1,001 - $15,000
+Filing Status                              new
+Acronym                                   MINI
+Op_Type                                     ST
+Pdf_Id                                20017157
+Name: 5, dtype: object
+Error en diferencia de fechas. Archivo 20017356.pdf. Nueva Date: 2020-02-22 00:00:00
+ Owner                                               SP
+Asset            Charles Schwab - Bank of America [OT]
+Tx_Type                                              S
+Date                                        02/22/2019
+Notif_Date                                  09/12/2020
+Amount                                $1,001 - $15,000
+Filing Status                                      new
+Acronym                                               
+Op_Type                                             OT
+Pdf_Id                                        20017356
+Name: 0, dtype: object
+Error en diferencia de fechas. Archivo 20017356.pdf. Nueva Date: 2020-02-22 00:00:00
+ Owner                                        SP
+Asset            Charles Schwab - Enbridge [OT]
+Tx_Type                                       S
+Date                                 02/22/2019
+Notif_Date                           09/12/2020
+Amount                         $1,001 - $15,000
+Filing Status                               new
+Acronym                                        
+Op_Type                                      OT
+Pdf_Id                                 20017356
+Name: 1, dtype: object
+Error en diferencia de fechas. Archivo 20017356.pdf. Nueva Date: 2020-02-22 00:00:00
+ Owner                                             SP
+Asset            Charles Schwab - Ford Motor Co [OT]
+Tx_Type                                            S
+Date                                      02/22/2019
+Notif_Date                                09/12/2020
+Amount                              $1,001 - $15,000
+Filing Status                                    new
+Acronym                                             
+Op_Type                                           OT
+Pdf_Id                                      20017356
+Name: 2, dtype: object
+Error en diferencia de fechas. Archivo 20017356.pdf. Nueva Date: 2020-02-22 00:00:00
+ Owner                                                         SP
+Asset            Charles Schwab - Root 9 B Technologies Inc [OT]
+Tx_Type                                                        S
+Date                                                  02/22/2019
+Notif_Date                                            09/12/2020
+Amount                                                          
+Filing Status                                                new
+Acronym                                                         
+Op_Type                                                       OT
+Pdf_Id                                                  20017356
+Name: 3, dtype: object
+Error en diferencia de fechas. Archivo 20017356.pdf. Nueva Date: 2020-02-22 00:00:00
+ Owner                                            SP
+Asset            Charles Schwab - UBS group Ag [OT]
+Tx_Type                                           S
+Date                                     02/22/2019
+Notif_Date                               09/12/2020
+Amount                             $1,001 - $15,000
+Filing Status                                   new
+Acronym                                            
+Op_Type                                          OT
+Pdf_Id                                     20017356
+Name: 4, dtype: object
+Error en diferencia de fechas. Archivo 20017595.pdf. Nueva Date: 2020-04-10 00:00:00
+ Owner                                                             
+Asset            Alibaba group Holding Limited American Deposit...
+Tx_Type                                                S (PARTIAL)
+Date                                                    04/10/2019
+Notif_Date                                              10/28/2020
+Amount                                          $50,001 - $100,000
+Filing Status                                                  new
+Acronym                                                       BABA
+Op_Type                                                         ST
+Pdf_Id                                                    20017595
+Name: 0, dtype: object
+Error en diferencia de fechas. Archivo 20017595.pdf. Nueva Date: 2020-08-01 00:00:00
+ Owner                                                        
+Asset            Beyond Meat, Inc. - Common stock (BYND) [ST]
+Tx_Type                                                     P
+Date                                               08/01/2019
+Notif_Date                                         10/28/2020
+Amount                                     $50,001 - $100,000
+Filing Status                                             new
+Acronym                                                  BYND
+Op_Type                                                    ST
+Pdf_Id                                               20017595
+Name: 4, dtype: object
+Error en diferencia de fechas. Archivo 20017595.pdf. Nueva Date: 2020-09-06 00:00:00
+ Owner                                                        
+Asset            Beyond Meat, Inc. - Common stock (BYND) [OP]
+Tx_Type                                                     P
+Date                                               09/06/2019
+Notif_Date                                         10/28/2020
+Amount                                       $1,001 - $15,000
+Filing Status                                             new
+Acronym                                                  BYND
+Op_Type                                                    OP
+Pdf_Id                                               20017595
+Name: 0, dtype: object
+Error en diferencia de fechas. Archivo 20017595.pdf. Nueva Date: 2020-04-20 00:00:00
+ Owner                                                             
+Asset            HuYA Inc. American depositary shares, each rep...
+Tx_Type                                                          P
+Date                                                    04/20/2019
+Notif_Date                                              10/28/2020
+Amount                                           $15,001 - $50,000
+Filing Status                                                  new
+Acronym                                                       HUYA
+Op_Type                                                         ST
+Pdf_Id                                                    20017595
+Name: 4, dtype: object
+Error en diferencia de fechas. Archivo 20017595.pdf. Nueva Date: 2020-05-06 00:00:00
+ Owner                                                             
+Asset            HuYA Inc. American depositary shares, each rep...
+Tx_Type                                                          P
+Date                                                    05/06/2019
+Notif_Date                                              10/28/2020
+Amount                                           $15,001 - $50,000
+Filing Status                                                  new
+Acronym                                                       HUYA
+Op_Type                                                         ST
+Pdf_Id                                                    20017595
+Name: 5, dtype: object
+Error en diferencia de fechas. Archivo 20017595.pdf. Nueva Date: 2020-08-30 00:00:00
+ Owner                                                             
+Asset            HuYA Inc. American depositary shares, each rep...
+Tx_Type                                                          S
+Date                                                    08/30/2019
+Notif_Date                                              10/28/2020
+Amount                                         $100,001 - $250,000
+Filing Status                                                  new
+Acronym                                                       HUYA
+Op_Type                                                         ST
+Pdf_Id                                                    20017595
+Name: 6, dtype: object
+Error en diferencia de fechas. Archivo 20017595.pdf. Nueva Date: 2020-05-23 00:00:00
+ Owner                                                            
+Asset            SPDR Dow Jones Industrial Average ETF (DIA) [OP]
+Tx_Type                                                         P
+Date                                                   05/23/2019
+Notif_Date                                             10/28/2020
+Amount                                           $1,001 - $15,000
+Filing Status                                                 new
+Acronym                                                       DIA
+Op_Type                                                        OP
+Pdf_Id                                                   20017595
+Name: 4, dtype: object
+Error en diferencia de fechas. Archivo 20017595.pdf. Nueva Date: 2020-08-02 00:00:00
+ Owner                                                             
+Asset            Zebra Technologies Corporation - Class A (ZBRA...
+Tx_Type                                                          P
+Date                                                    08/02/2019
+Notif_Date                                              10/28/2020
+Amount                                          $50,001 - $100,000
+Filing Status                                                  new
+Acronym                                                       ZBRA
+Op_Type                                                         ST
+Pdf_Id                                                    20017595
+Name: 5, dtype: object
+Error en diferencia de fechas. Archivo 20017595.pdf. Nueva Date: 2020-08-08 00:00:00
+ Owner                                                             
+Asset            Zebra Technologies Corporation - Class A (ZBRA...
+Tx_Type                                                          S
+Date                                                    08/08/2019
+Notif_Date                                              10/28/2020
+Amount                                         $100,001 - $250,000
+Filing Status                                                  new
+Acronym                                                       ZBRA
+Op_Type                                                         ST
+Pdf_Id                                                    20017595
+Name: 6, dtype: object
+Error en diferencia de fechas. Archivo 20017827.pdf. Nueva Date: 2020-11-11 00:00:00
+ Owner                                 JT
+Asset            Tesla, Inc. (TSLA) [ST]
+Tx_Type                      S (PARTIAL)
+Date                          11/11/2019
+Notif_Date                    12/08/2020
+Amount                  $1,001 - $15,000
+Filing Status                          O
+Acronym                             TSLA
+Op_Type                               ST
+Pdf_Id                          20017827
+Name: 9, dtype: object

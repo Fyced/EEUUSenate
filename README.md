@@ -118,15 +118,15 @@ All figures come from the outputs saved in the notebooks.
 
 ### Baseline: copying every purchase (`basicStrategy.ipynb`)
 
-For roughly 6,350 purchases from 2021–2025, investing $1,000 per trade:
+For 6,364 purchases from 2021–2025, entered on the notification date and held for 19 days, investing $1,000 per trade:
 
 | | Copy all purchases | Same windows in SPY |
-|---|---|---|
-| Total P&L | $58,409 | $66,258 |
-| Trades with a positive return | 55.3% | 66.3% |
-| Average return per trade | 0.92% | 1.04% |
+|---|--:|--:|
+| Total P&L | $74,090 | $55,524 |
+| Trades with a positive return | 55.5% | 63.5% |
+| Average return per trade | 1.16% | 0.87% |
 
-Blindly copying congressional purchases did **not** beat simply holding the index over the same windows.
+Copying every purchase outperformed the index on total and average return, but with a lower hit rate: fewer trades were winners, and the gains were concentrated in a smaller number of strong trades.
 
 ### Filtered strategies (`pointsStrategy.ipynb`)
 
